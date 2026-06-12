@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "LB104V03 A1",
+        "brand": "LG",
+        "category": "display",
+        "img": "https://placehold.co/200x120/162a47/38bdf8?text=LB104V03",
+        "desc": "Painel LCD 10.4\" SVGA com retroiluminação CCFL. Resolução 800×600 px. Tensão de operação: 3.3 V. Ideal para HMIs industriais e equipamentos médicos."
+    },
+    {
+        "id": 2,
+        "name": "BSM150GD60DLC",
+        "brand": "Infineon",
+        "category": "igbt",
+        "img": "https://placehold.co/200x120/162a47/38bdf8?text=BSM150GD60",
+        "desc": "Módulo IGBT trifásico 600 V / 150 A com diodos de recuperação rápida integrados. Adequado para inversores, UPS e acionamentos de motores."
+    },
+    {
+        "id": 3,
+        "name": "7MBR75U4BI20-50",
+        "brand": "Fuji Electric",
+        "category": "igbt",
+        "img": "https://placehold.co/200x120/162a47/38bdf8?text=7MBR75U4",
+        "desc": "IPM (Intelligent Power Module) 1200 V / 75 A. Proteção integrada contra sobrecorrente e sobretemperatura. Série U4B de alta eficiência."
+    },
+    {
+        "id": 4,
+        "name": "1MBI300JN-120",
+        "brand": "Fuji Electric",
+        "category": "igbt",
+        "img": "https://placehold.co/200x120/162a47/38bdf8?text=1MBI300JN",
+        "desc": "IGBT discreto 1200 V / 300 A para aplicações de alta potência. Baixo VCE(sat) para maior eficiência energética."
+    },
+    {
+        "id": 5,
+        "name": "1N4744",
+        "brand": "ON Semiconductor",
+        "category": "componentes",
+        "img": "https://placehold.co/200x120/162a47/38bdf8?text=1N4744",
+        "desc": "Diodo Zener 15 V / 1 W encapsulamento DO-41. Regulação de tensão em fontes e circuitos de proteção. Temperatura de junção: –65 °C a +200 °C."
+    },
+    {
+        "id": 6,
+        "name": "TCA785",
+        "brand": "Infineon",
+        "category": "componentes",
+        "img": "https://placehold.co/200x120/162a47/38bdf8?text=TCA785",
+        "desc": "CI controlador de fase para tiristores e TRIACs. Disparo sincronizado com a rede. Amplamente usado em dimmers e controladores de potência."
+    },
+    {
+        "id": 7,
+        "name": "TC-1000N",
+        "brand": "Generic",
+        "category": "tc",
+        "img": "https://placehold.co/200x120/162a47/38bdf8?text=TC-1000N",
+        "desc": "Transformador de corrente toroidal 1000:5 A para medição e proteção. Classe de precisão 0,5. Frequência: 50/60 Hz."
+    },
+    {
+        "id": 8,
+        "name": "LM2596S-ADJ",
+        "brand": "Texas Instruments",
+        "category": "componentes",
+        "img": "https://placehold.co/200x120/162a47/38bdf8?text=LM2596S",
+        "desc": "Regulador chaveado step-down (buck) 3 A / 150 kHz. Tensão ajustável de 1.2 V a 37 V. Alta eficiência — reduz calor no sistema."
+    },
+    {
+        "id": 9,
+        "name": "ACS712-30A",
+        "brand": "Allegro",
+        "category": "componentes",
+        "img": "https://placehold.co/200x120/162a47/38bdf8?text=ACS712",
+        "desc": "Sensor de corrente por efeito Hall ±30 A. Saída analógica linear. Isolamento galvânico integrado — ideal para inversores e sistemas embarcados."
+    },
+    {
+        "id": 10,
+        "name": "G121EAN01.0",
+        "brand": "AUO",
+        "category": "display",
+        "img": "https://placehold.co/200x120/162a47/38bdf8?text=G121EAN01",
+        "desc": "Painel LCD industrial 12.1\" XGA 1024×768 px com backlight LED. Alta luminosidade 700 cd/m². Temperatura de operação: –30 °C a +80 °C."
+    }
+]
