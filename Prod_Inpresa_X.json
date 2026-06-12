@@ -1,5 +1,10 @@
 [
-  {
-    id = 1
+   {
+      "id": 1,
+      "name": "Yorgut desnatado",
+      "brand": "Muito bom dentro da validade",
+      "category": "Componentes",
+      "img": "Iorgut",
+      "desc": "Muito bom, recomendo para ti."
   }
 ]
