@@ -78,5 +78,13 @@
         "category": "display",
         "img": "https://placehold.co/200x120/162a47/38bdf8?text=G121EAN01",
         "desc": "Painel LCD industrial 12.1\" XGA 1024×768 px com backlight LED. Alta luminosidade 700 cd/m². Temperatura de operação: –30 °C a +80 °C."
+    },
+    {
+        "id": 11,
+        "name": "Radio",
+        "brand": "Isso é um radio",
+        "category": "equipamento",
+        "img": "Isso é uma imagem",
+        "desc": "Isso é uma descriação para verificar se está funcionando."
     }
 ]
